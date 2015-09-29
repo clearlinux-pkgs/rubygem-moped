@@ -4,7 +4,7 @@
 #
 Name     : rubygem-moped
 Version  : 2.0.6
-Release  : 1
+Release  : 2
 URL      : https://rubygems.org/downloads/moped-2.0.6.gem
 Source0  : https://rubygems.org/downloads/moped-2.0.6.gem
 Summary  : No detailed summary available
